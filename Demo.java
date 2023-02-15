@@ -1,3 +1,3 @@
 <<<<<<< HEAD
-"Hello World, Welcome to DevOps by Star"
+"Hello World, Welcome to DevOps by StarAGILE"
 >>>>>>> Feature2
